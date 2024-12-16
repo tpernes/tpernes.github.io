@@ -36,16 +36,17 @@ a
 h1
 {
     display: block;
-    font-size: 1.5em;
+    font-size: 1.6em;
     line-height: 1.2em;
     text-align: center;
     font-weight: normal;
     margin-bottom: 16px;
+    font-type: bolds;
 }
 
 p
 {
-    font-size: 1em;
+    font-size: 1.2em;
     line-height: 1.2em;
     text-align: left;
     margin-top: 16px;
@@ -100,7 +101,7 @@ button
 .strong-primary
 {
   font-weight: bold;
-  color: #0B76A0;
+  color: #5381C3;
 }
 
 .strong-secondary 
